@@ -3,5 +3,5 @@ const names = ["Steve", "Fang", "Mayur", "Billy", "Diane W", "Joe", "Casey", "Ch
 document.getElementById('pickNameButton').addEventListener('click', () => {
     const randomIndex = Math.floor(Math.random() * names.length);
     const selectedName = names[randomIndex];
-    document.getElementById('result').textContent = `Chosen Name: ${selectedName}`;
+    document.getElementById('result').textContent = `Who's next?: ${selectedName}`;
 });
