@@ -1,4 +1,4 @@
-const names = ["Steve", "Fang", "Mayur", "Billy", "Diane W", "Joe", "Casey", "Chris", "Caitlin", "Cindy", "Diane K", "Tom", "Jorge", "Ray", "Off the Hook"];
+const names = ["Steve", "Fang", "Mayur", "Billy", "Diane W", "Joe", "Chris", "Caitlin", "Cindy", "Diane K", "Tom", "Jorge", "Ray", "Off the Hook"];
 
 document.getElementById('pickNameButton').addEventListener('click', () => {
     const randomIndex = Math.floor(Math.random() * names.length);
