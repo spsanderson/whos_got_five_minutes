@@ -2,7 +2,7 @@
 
 const names = [
     "Steve", "Fang", "Mayur", "Billy", "Diane W", "Joe", "Chris", "Caitlin", "Cindy",
-    "Diane K", "Tom", "Jorge", "Ray", "Elena", "Cecilia", "Off the Hook"
+    "Diane K", "Tom", "Jorge", "Ray", "Elena", "Cecilia", "Malacy", "Off the Hook"
 ];
 
 const usedNames = [];
